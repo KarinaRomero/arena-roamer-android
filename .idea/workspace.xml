@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f7db23e-1fbb-4390-81f3-b2ccc69814b4" name="Default" comment="" />
+    <list default="true" id="2f7db23e-1fbb-4390-81f3-b2ccc69814b4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamer/build/libs/arenaroamer.jar" afterPath="$PROJECT_DIR$/arenaroamer/build/libs/arenaroamer.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/classes/debug/com/mrdt/arenaroamer/BuildConfig.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/classes/debug/com/mrdt/arenaroamer/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/classes/debug/com/mrdt/arenaroamer/R$attr.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/classes/debug/com/mrdt/arenaroamer/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/classes/debug/com/mrdt/arenaroamer/R$drawable.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/classes/debug/com/mrdt/arenaroamer/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/classes/debug/com/mrdt/arenaroamer/R$layout.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/classes/debug/com/mrdt/arenaroamer/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/classes/debug/com/mrdt/arenaroamer/R$string.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/classes/debug/com/mrdt/arenaroamer/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/classes/debug/com/mrdt/arenaroamer/R.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/classes/debug/com/mrdt/arenaroamer/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/classes/debug/com/theinvader360/arenaroamer/AndroidStarter.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/classes/debug/com/theinvader360/arenaroamer/AndroidStarter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/incremental-verifier/debug/com/mrdt/arenaroamer/BuildConfig.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/incremental-verifier/debug/com/mrdt/arenaroamer/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/incremental-verifier/debug/com/mrdt/arenaroamer/R$attr.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/incremental-verifier/debug/com/mrdt/arenaroamer/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/incremental-verifier/debug/com/mrdt/arenaroamer/R$drawable.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/incremental-verifier/debug/com/mrdt/arenaroamer/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/incremental-verifier/debug/com/mrdt/arenaroamer/R$layout.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/incremental-verifier/debug/com/mrdt/arenaroamer/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/incremental-verifier/debug/com/mrdt/arenaroamer/R$string.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/incremental-verifier/debug/com/mrdt/arenaroamer/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/incremental-verifier/debug/com/mrdt/arenaroamer/R.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/incremental-verifier/debug/com/mrdt/arenaroamer/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/incremental-verifier/debug/com/theinvader360/arenaroamer/AndroidStarter.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/incremental-verifier/debug/com/theinvader360/arenaroamer/AndroidStarter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/pre-dexed/debug/gdx-backend-android_56b30d02898a88452d5f2e1a5181114cd4f84563.jar" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/pre-dexed/debug/gdx-backend-android_56b30d02898a88452d5f2e1a5181114cd4f84563.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/pre-dexed/debug/gdx_4d9d9db1b3a1d21d7735e286c7e7466f272f71db.jar" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/pre-dexed/debug/gdx_4d9d9db1b3a1d21d7735e286c7e7466f272f71db.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/pre-dexed/debug/instant-run-bootstrap_0914b2419d30e99478f0fd569dcf40dcced1d5cb.jar" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/pre-dexed/debug/instant-run-bootstrap_0914b2419d30e99478f0fd569dcf40dcced1d5cb.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/pre-dexed/debug/instant-run_53f4d89dbc0207245a4daaebc26fe4f87ad26815.jar" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/pre-dexed/debug/instant-run_53f4d89dbc0207245a4daaebc26fe4f87ad26815.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/pre-dexed/debug/main_02ef25d2872ebdc56503a16632f7d6bc8b025131.jar" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/pre-dexed/debug/main_02ef25d2872ebdc56503a16632f7d6bc8b025131.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/res/resources-debug-androidTest.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mrdt/arenaroamer/BuildConfig.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mrdt/arenaroamer/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mrdt/arenaroamer/R$attr.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mrdt/arenaroamer/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mrdt/arenaroamer/R$drawable.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mrdt/arenaroamer/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mrdt/arenaroamer/R$layout.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mrdt/arenaroamer/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mrdt/arenaroamer/R$string.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mrdt/arenaroamer/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mrdt/arenaroamer/R.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mrdt/arenaroamer/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/theinvader360/arenaroamer/AndroidStarter.class" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/theinvader360/arenaroamer/AndroidStarter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/outputs/apk/arenaroamerandroid-debug-unaligned.apk" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/outputs/apk/arenaroamerandroid-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/outputs/apk/arenaroamerandroid-debug.apk" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/outputs/apk/arenaroamerandroid-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arena-roamer-android.iml" afterPath="$PROJECT_DIR$/arena-roamer-android.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/arenaroamerandroid.iml" afterPath="$PROJECT_DIR$/arenaroamerandroid/arenaroamerandroid.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build.gradle" afterPath="$PROJECT_DIR$/arenaroamerandroid/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/generated/source/r/debug/com/mrdt/arenaroamer/R.java" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/generated/source/r/debug/com/mrdt/arenaroamer/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/blame/res/debug/multi/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/blame/res/debug/single/layout.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/instant-run-support/debug/manifest.crc" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/instant-run-support/debug/manifest.crc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/res/merged/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/restart-dex/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/arenaroamerandroid/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arenaroamerandroid/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/arenaroamerandroid/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+    </list>
     <ignored path="arena-roamer-android.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +82,68 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="arena-roamer-android" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="activity_home.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arenaroamerandroid/src/main/res/layout/activity_home.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.2727273">
+              <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arenaroamerandroid/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.269231">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Home.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/arenaroamerandroid/src/main/java/com/theinvader360/arenaroamer/Home.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.62739724">
+              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arenaroamerandroid/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -1384,7 +1504,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="5845237960000" />
+        <entry key="$PROJECT_DIR$" value="5845752390650" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1805,13 +1925,25 @@
       <projects_view />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/res/merged/debug/values-v21/values-v21.xml" />
+        <option value="$PROJECT_DIR$/arenaroamerandroid/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/arenaroamerandroid/build/intermediates/res/merged/debug/values-ldltr-v21/values-ldltr-v21.xml" />
+        <option value="$PROJECT_DIR$/arenaroamerandroid/build.gradle" />
+        <option value="$PROJECT_DIR$/arenaroamerandroid/src/main/res/layout/activity_home.xml" />
+        <option value="$PROJECT_DIR$/arenaroamerandroid/src/main/java/com/theinvader360/arenaroamer/Home.java" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1370" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -1846,37 +1978,9 @@
               <option name="myItemId" value="arena-roamer-android" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="arena-roamer-android" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arenaroamerandroid" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="textures" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arena-roamer-android" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arenaroamerandroid" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1893,32 +1997,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="arena-roamer-android" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arenaroamerandroid" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arenaroamer" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arena-roamer-android" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arenaroamerandroid" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -1927,9 +2005,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="device.picker.selection" value="08711b51" />
+    <property name="device.picker.selection" value="20bc6b1b" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="android.project.structure.last.selected" value="arenaroamerandroid" />
+    <property name="android.project.structure.proportion" value="0.15" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="com.theinvader360.arenaroamer" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.arenaroamerandroid">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -1966,6 +2052,39 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -1979,6 +2098,15 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -2005,6 +2133,48 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -2027,6 +2197,34 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
@@ -2105,29 +2303,30 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2519084" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -2186,6 +2385,121 @@
     <entry file="file://$PROJECT_DIR$/arenaroamerandroid/src/main/assets/textures/exit.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arenaroamerandroid/src/main/assets/maps/Level2.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arenaroamerandroid/src/main/assets/maps/Level1.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arenaroamer/src/main/java/com/theinvader360/arenaroamer/Cliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="66" selection-start-line="55" selection-start-column="66" selection-end-line="55" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arenaroamerandroid/src/main/res/layout/activity_home.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arenaroamerandroid/src/main/java/com/theinvader360/arenaroamer/AndroidStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.9259257">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arenaroamerandroid/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arenaroamerandroid/src/main/res/values-w820dp/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arenaroamerandroid/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arenaroamerandroid/src/main/res/layout/main.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arenaroamerandroid/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arenaroamerandroid/src/main/res/layout/activity_home.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2727273">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arenaroamerandroid/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.269231">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arenaroamerandroid/src/main/java/com/theinvader360/arenaroamer/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62739724">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>

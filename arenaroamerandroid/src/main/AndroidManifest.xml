@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.mrdt.arenaroamer"
+    android:installLocation="auto"
     android:versionCode="2"
-    android:versionName="1.0.1"
-    android:installLocation="auto" >
+    android:versionName="1.0.1">
+
+    <uses-sdk
+        android:minSdkVersion="3"
+        android:targetSdkVersion="15" />
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
@@ -11,19 +15,22 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
-    <uses-sdk android:minSdkVersion="3" android:targetSdkVersion="15" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
 
     <application
         android:icon="@drawable/ic_launcher"
-        android:label="Arena Roamer 3D" >
+        android:label="Arena Roamer 3D">
         <activity
             android:name="com.theinvader360.arenaroamer.AndroidStarter"
-            android:label="Arena Roamer 3D"
-            android:screenOrientation="landscape"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-            android:keepScreenOn="true">
+            android:keepScreenOn="true"
+            android:label="Arena Roamer 3D"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity android:name="com.theinvader360.arenaroamer.Home">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>

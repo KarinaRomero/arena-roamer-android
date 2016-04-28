@@ -1,17 +1,14 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 17
+    compileSdkVersion 23
     buildToolsVersion "23.0.3"
 
     defaultConfig {
         applicationId "com.mrdt.arenaroamer"
-        minSdkVersion 3
-        targetSdkVersion 15
-        compileOptions {
-            sourceCompatibility JavaVersion.VERSION_1_5
-            targetCompatibility JavaVersion.VERSION_1_5
-        }
+        minSdkVersion 19
+        targetSdkVersion 23
+
     }
 
     buildTypes {
