@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.mrdt.arenaroamer"
+        minSdkVersion 3
+        targetSdkVersion 15
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_5
+            targetCompatibility JavaVersion.VERSION_1_5
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':arenaroamer')
+    compile files('libs/gdx.jar')
+    compile files('libs/gdx-backend-android-sources.jar')
+    compile files('libs/gdx-backend-android.jar')
+}

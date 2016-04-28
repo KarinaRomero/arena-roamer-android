@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2de52a33adb72603dbcbb4e646fdae9ceaf7fa6">
+        <dex dex="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\pre-dexed\debug\instant-run-bootstrap_0914b2419d30e99478f0fd569dcf40dcced1d5cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\libs\gdx-backend-android.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="222d549a7b8a95513167407c78219200bdbaf2fa">
+        <dex dex="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\pre-dexed\debug\gdx-backend-android_56b30d02898a88452d5f2e1a5181114cd4f84563.jar" />
+    </item>
+    <item
+        jar="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\libs\gdx.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="40a0ad623e745d54e1118c4a03b84ea24a5fa570">
+        <dex dex="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\pre-dexed\debug\gdx_4d9d9db1b3a1d21d7735e286c7e7466f272f71db.jar" />
+    </item>
+    <item
+        jar="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8f142f2cbbca79a7b802f52c8766c2ca5f329f9b">
+        <dex dex="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\pre-dexed\debug\instant-run_53f4d89dbc0207245a4daaebc26fe4f87ad26815.jar" />
+    </item>
+
+</items>

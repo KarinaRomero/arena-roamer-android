@@ -1,0 +1,55 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From arena-roamer:
+* .DS_Store
+* arena-roamer.iml
+From arena-roamer-android:
+* .DS_Store
+* arena-roamer-android.iml
+* proguard.cfg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In arena-roamer:
+* libs/gdx-sources.jar => arenaroamer/libs/gdx-sources.jar
+* libs/gdx.jar => arenaroamer/libs/gdx.jar
+* src/ => arenaroamer/src/main/java/
+* src/.DS_Store => arenaroamer/src/main/resources/.DS_Store
+* src/ArenaRoamer.gwt.xml => arenaroamer/src/main/resources/ArenaRoamer.gwt.xml
+* src/com/.DS_Store => arenaroamer/src/main/resources/com/.DS_Store
+In arena-roamer-android:
+* AndroidManifest.xml => arenaroamerandroid/src/main/AndroidManifest.xml
+* assets/ => arenaroamerandroid/src/main/assets/
+* libs/armeabi-v7a/libandroidgl20.so => arenaroamerandroid/src/main/jniLibs/armeabi-v7a/libandroidgl20.so
+* libs/armeabi-v7a/libgdx.so => arenaroamerandroid/src/main/jniLibs/armeabi-v7a/libgdx.so
+* libs/armeabi/libandroidgl20.so => arenaroamerandroid/src/main/jniLibs/armeabi/libandroidgl20.so
+* libs/armeabi/libgdx.so => arenaroamerandroid/src/main/jniLibs/armeabi/libgdx.so
+* libs/gdx-backend-android-sources.jar => arenaroamerandroid/libs/gdx-backend-android-sources.jar
+* libs/gdx-backend-android.jar => arenaroamerandroid/libs/gdx-backend-android.jar
+* res/ => arenaroamerandroid/src/main/res/
+* src/ => arenaroamerandroid/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
