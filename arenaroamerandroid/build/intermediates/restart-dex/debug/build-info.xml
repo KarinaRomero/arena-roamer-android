@@ -4,29 +4,21 @@
     api-level="19"
     density="hdpi"
     format="7"
-    timestamp="262370533271063" >
+    timestamp="264178316633060" >
 
     <task
         name="javac"
-        duration="777" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="508" />
+        duration="0" />
     <task
         name="verifier"
-        duration="844" />
+        duration="0" />
 
-    <artifact
-        location="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\outputs\apk\arenaroamerandroid-debug.apk"
-        type="MAIN" />
-
-    <build timestamp="262370533271063" >
-        <artifact
-            location="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\outputs\apk\arenaroamerandroid-debug.apk"
-            type="MAIN" />
-    </build>
+    <build timestamp="264178316633060" />
 
 </instant-run>

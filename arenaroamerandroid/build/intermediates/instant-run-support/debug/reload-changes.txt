@@ -1,0 +1,4 @@
+CHANGED,C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\theinvader360\arenaroamer\AndroidStarter$override.class
+CHANGED,C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\theinvader360\arenaroamer\Home$2$override.class
+CHANGED,C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\theinvader360\arenaroamer\Cliente$override.class

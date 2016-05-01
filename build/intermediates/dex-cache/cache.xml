@@ -2,32 +2,60 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        jar="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
         revision="23.0.3"
-        sha1="8e284cf177e745ee32ca8f45372c9c3a1a729861">
-        <dex dex="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\pre-dexed\debug\instant-run-bootstrap_0914b2419d30e99478f0fd569dcf40dcced1d5cb.jar" />
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_20b1322995754aa6b75d4d9a9a3fe0d5e707b915.jar" />
+    </item>
+    <item
+        jar="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_dff5220df5cbfd4587d8c2414375ced7b1ff4be3.jar" />
     </item>
     <item
         jar="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\libs\gdx-backend-android.jar"
-        jumboMode="true"
+        jumboMode="false"
         revision="23.0.3"
         sha1="222d549a7b8a95513167407c78219200bdbaf2fa">
         <dex dex="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\pre-dexed\debug\gdx-backend-android_56b30d02898a88452d5f2e1a5181114cd4f84563.jar" />
     </item>
     <item
+        jar="C:\Users\KarinaRomero\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_27d254576da1b8120d8fd12e606b003daef2ffa8.jar" />
+    </item>
+    <item
         jar="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\libs\gdx.jar"
-        jumboMode="true"
+        jumboMode="false"
         revision="23.0.3"
         sha1="40a0ad623e745d54e1118c4a03b84ea24a5fa570">
         <dex dex="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\pre-dexed\debug\gdx_4d9d9db1b3a1d21d7735e286c7e7466f272f71db.jar" />
     </item>
     <item
-        jar="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        jar="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
         revision="23.0.3"
-        sha1="5e217d0cdd466060a3959e7bdec1760b3d3e8cf1">
-        <dex dex="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\pre-dexed\debug\instant-run_53f4d89dbc0207245a4daaebc26fe4f87ad26815.jar" />
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_984c9e10c6afb49fb0853a907896c3cb7ff0964a.jar" />
+    </item>
+    <item
+        jar="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_b328aa4c3974e3020fb052658bee5ff54480865c.jar" />
+    </item>
+    <item
+        jar="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamer\build\libs\arenaroamer.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2c8fa6de1e6df08df4b4882f46a27babf696818b">
+        <dex dex="C:\Users\KarinaRomero\Desktop\FinalEsteSIES\android\arena-roamer-android\arenaroamerandroid\build\intermediates\pre-dexed\debug\arenaroamer_f97b2dea015876a47280161224a6e5c3394ec4bc.jar" />
     </item>
 
 </items>

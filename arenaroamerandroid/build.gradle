@@ -24,4 +24,5 @@ dependencies {
     compile files('libs/gdx.jar')
     compile files('libs/gdx-backend-android-sources.jar')
     compile files('libs/gdx-backend-android.jar')
+    compile 'com.google.android.gms:play-services-appindexing:8.1.0'
 }

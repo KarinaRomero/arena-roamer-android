@@ -19,7 +19,7 @@ public class Cliente implements Runnable {
     int puerto,dir ;
     String response = "";
     float delta;
-
+   public static String player ="";
 
     Cliente(String ip, int puerto, float delta, int dir) {
         this.ip = ip;
@@ -46,6 +46,7 @@ public class Cliente implements Runnable {
             PrintStream printStream = new PrintStream(os);
             printStream.println(delta);
             printStream.println(dir);
+            printStream.println(player);
             printStream.close();
 
 
